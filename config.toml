@@ -1,6 +1,6 @@
 baseURL = "/"
-languageCode = "en-gb"
-title = "{TITLE}"
+languageCode = "es-mx"
+title = "Rock N' Geek"
 
 enableRobotsTXT = true
 disableAliases = true
