@@ -38,8 +38,12 @@ disableAliases = true
   # Nav links in the side bar
   [[params.navlinks]]
   name = "Home"
-  url = "/"
-  # home = true
+  url = "posts/"
+  home = true
+  
+  [[params.navlinks]]
+  name = "Portfolio"
+  url = "portfolio/"
 
   [[params.navlinks]]
   name = "About"
