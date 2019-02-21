@@ -1,0 +1,24 @@
+body {
+  background-color: #000;
+  color: #FFF; }
+
+.box-masonry {
+  -webkit-box-shadow: none;
+          box-shadow: none; }
+  .box-masonry:hover {
+    -webkit-box-shadow: 0 0 10px #FFF;
+            box-shadow: 0 0 10px #FFF; }
+
+.sidebar-heading a {
+  color: #FFF; }
+  .sidebar-heading a:hover {
+    color: #FFF; }
+
+.small-navbar-heading a {
+  color: #FFF; }
+  .small-navbar-heading a:hover {
+    color: #FFF; }
+
+h1, h2, h3, h4, h5, h6,
+.h1, .h2, .h3, .h4, .h5, .h6 {
+  color: #FFF; }
